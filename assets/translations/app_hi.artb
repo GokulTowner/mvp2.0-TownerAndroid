@@ -1,0 +1,48 @@
+{
+  "appTitle" : "Towner",
+  "@appTitle" : {
+    "description": "Application Title"
+  },
+  "driver" : "Driver",
+  "settings" : "Settings",
+  "uploadDocuments" : "Upload Documents",
+  "waitForApproval" : "Wait for Approval",
+  "subscribeThePackage" : "Subscribe the Package",
+  "done": "Done",
+  "ownerLogin": "स्वामी लॉगिन",
+  "driverLogin": "ड्राइवर लॉगिन",
+
+  "helloPartner": "हेलो पार्टनर",
+  "welcomeBackToTowner": "Welcome back to Towner",
+  "mobileNumber": "Mobile Number",
+  "enterYourMobileNumber" : "Enter your mobile number",
+  "password" : "Password",
+  "pleaseenterPassword":"Please enter password",
+  "enterPassword":"Enter password",
+  "forgotPassword":"पासवर्ड भूल गए?",
+  "signIn":"Sign In",
+  "dontHaveAnAccountSwipeRightTo":"Don't have an account? Swipe right to",
+  "createNewAccount":"create a new account",
+
+  "forgotPasswordScreenIntro":"Don't worry! It happens. Please\nenter the mobile number associated with your account.",
+  "mobileEmailAddress":"Mobile or Email Address",
+  "sentotp":"Send OTP",
+
+  "createaaccount": "एक खाता बनाएँ",
+  "firmbusinessname": "Firm Or Business Name",
+  "ownername": "Owner Name",
+  "ownermobileNumber": "Owner Mobile Number",
+  "ownerpassword": "Owner Password",
+  "vehiclenumber": "Vehicle Number",
+  "selectifownercumdriver":"Select if Owner Cum Driver",
+  "drivermobileNumber":"Driver Mobile Number",
+  "createpasswordpin":"Create Password Or Pin",
+  "coinfirmpasswordpin":"Coinfirm Password Or Pin",
+  "selectthisboxifyouhaveareferralcode":"Select this box if you have a referral code",
+  "enterreferralcode":"Enter Referral Code",
+  "fleetownercode":"Fleet Owner Code",
+  "channelpartnercode":"Channel Partner Code",
+  "register": "Register",
+  "alreadyhaveanaccount": "Already have an account",
+  "signIn": "Sign In"
+}

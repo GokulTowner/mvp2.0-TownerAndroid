@@ -1,0 +1,11 @@
+export '/src/online/home_map/bottom_navigation/bottom_navigation.dart';
+export '/src/online/home_map/own_trip_type/own_trip.dart';
+export '/src/online/home_map/qr_code_trip_scan/qr_code_driver_rider.dart';
+export '/src/online/home_map/widgets/offline_goto_popup/go_offline_container.dart';
+export '/src/online/home_map/widgets/offline_goto_popup/goto_home_container.dart';
+export '/src/online/home_map/widgets/cancel_goto_waiting.dart';
+export '/src/online/home_map/widgets/create_trip_container.dart';
+export '/src/online/home_map/widgets/main_home_container.dart';
+export '/src/online/home_map/direction_service.dart';
+export '/src/online/home_map/home_map_controller.dart';
+export '/src/online/home_map/home_map_screen.dart';

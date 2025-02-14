@@ -1,0 +1,11 @@
+export '/src/owner_speed_dial/vehicle_manager/add_vehicle/add_vehicle.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_profile/vehicle_profile.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_create_success/vehicle_create_success_popup.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_emission/vehicle_emission.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_fitness/vehicle_fitness.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_insurance/vehicle_insurance.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_permit/vehicle_permit.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_photos/vehicle_photos.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_rc/vehicle_rc.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_road_tax/vehicle_road_tax.dart';
+export '/src/owner_speed_dial/vehicle_manager/vehicle_settings_owner/vehicle_settings.dart';

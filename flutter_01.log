@@ -1,0 +1,65 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run --machine --start-paused -d w46dtwhaoz5taaof --devtools-server-address http://127.0.0.1:9100/ --target C:\Users\sande\OneDrive\Desktop\townerapp_mobile\lib\main.dart
+
+## exception
+
+HttpException: HttpException: Connection closed before full header was received, uri = http://127.0.0.1:56794/t6nOJEsA4W0=/ws
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 3.22.2, on Microsoft Windows [Version 10.0.22631.3737], locale en-IN)
+    • Flutter version 3.22.2 on channel stable at C:\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 761747bfc5 (3 weeks ago), 2024-06-05 22:15:13 +0200
+    • Engine revision edd8546116
+    • Dart version 3.4.3
+    • DevTools version 2.34.3
+
+[✓] Windows Version (Installed version of Windows is version 10 or higher)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
+    • Android SDK at C:\Users\sande\AppData\Local\Android\sdk
+    • Platform android-34, build-tools 34.0.0
+    • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+    • Java version OpenJDK Runtime Environment (build 17.0.6+0-b2043.56-10027231)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[✗] Visual Studio - develop Windows apps
+    ✗ Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[✓] Android Studio (version 2022.3)
+    • Android Studio at C:\Program Files\Android\Android Studio
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • Java version OpenJDK Runtime Environment (build 17.0.6+0-b2043.56-10027231)
+
+[✓] VS Code (version 1.90.2)
+    • VS Code at C:\Users\sande\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.90.0
+
+[✓] Connected device (4 available)
+    • Redmi Note 8 Pro (mobile) • w46dtwhaoz5taaof • android-arm64  • Android 11 (API 30)
+    • Windows (desktop)         • windows          • windows-x64    • Microsoft Windows [Version 10.0.22631.3737]
+    • Chrome (web)              • chrome           • web-javascript • Google Chrome 126.0.6478.114
+    • Edge (web)                • edge             • web-javascript • Microsoft Edge 126.0.2592.68
+
+[✓] Network resources
+    • All expected network resources are available.
+
+! Doctor found issues in 1 category.
+```
